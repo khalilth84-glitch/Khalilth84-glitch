@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Talhaoui</h1>
 <h3 align="center">I am a computer science student</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/khalilth84-glitch/Weather-app https://github.com/khalilth84-glitch/task-manager](https://github.com/khalilth84-glitch/Weather-app https://github.com/khalilth84-glitch/task-manager)
+- 👨‍💻 All of my projects are available at [https://github.com/khalilth84-glitch/Weather-app https://github.com/khalilth84-glitch/task-manager]
 
 - 📫 How to reach me **khalilth84@gmail.com**
 
